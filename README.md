@@ -5,8 +5,6 @@
 
 
 > **Engine Version: 5.3** (Older UE4.X versions Available under 'Branches' dropdown)
-> 
-> **Use Branch "Lecture29-FinishedProject" for course-only code.** (UE 4.25, 'Main branch' includes additional polish and features)
 
 ![GitHub Branch Selection Info](https://www.tomlooman.com/wp-content/uploads/2021/01/github_branchesinfo.jpg)
 
